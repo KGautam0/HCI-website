@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KGautam0/HCI-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -37,3 +37,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
+ 
+ <title>A Basic HTML5 Template</title>
+
+<link rel="stylesheet" href="">
+
+</head>
+
+<body>
+    <h1>TEAM YANG</h1>
+    <h1>Anna Tran at01802@uga.edu, Yash Amin yda82996@uga.edu, Gautam Lakshmanan gjl50179@uga.edu, Nikul Patel nmp76117@uga.edu</h1> 
+    <h1>Milestone Links</h1>
+    <a href="url">Milestone 1</a>
+    <a href="url">Milestone 2</a>
+
+</body>
+</html>
