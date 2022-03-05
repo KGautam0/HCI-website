@@ -1,5 +1,4 @@
 
-    <html>
     <body>
     <h1>TEAM YANG</h1>
     
@@ -18,4 +17,3 @@
     <a href="url">Milestone 2</a>
 
     </body>
-    </html>
