@@ -83,9 +83,9 @@ According to Hamilton, the author discusses how inefficient multitasking is. Res
 # C. <br>
 ## 1. <br>
 **_Proposed Solution_** <br>
-Integrate elc calendar and Athena Calendar with Outlook on UGA email address. This would mean that once a student has registered for classes and the semester has started they would be able to see all events from the Athena schedule and elc calendar on their outlook calendar  respectively. This calendar would sync with ELC and Athena daily at midnight so that any changes in either would be shown in outlook. 
+Integrate elc calendar and Athena Calendar with Outlook on UGA email address. This would mean that once a student has registered for classes and the semester has started they would be able to see all events from the Athena schedule and elc calendar on their outlook calendar respectively. This calendar would sync with ELC and Athena daily at midnight so that any changes in either would be shown in outlook. 
 
-Integrating the two into outlook is ideal as outlook has more features and has a stronger application of good design principles like discoverability, feedback, and signifiers than ELC and Athena. Furthermore many UGA students use outlook or at the least office mail for their UGFA email which means that they should be at least somewhat familiar with their app or even have it downloaded already this means there will be a steep learning curve, making the time to learn the system short.
+Integrating the two into outlook is ideal as outlook has more features and has a stronger application of good design principles like discoverability, feedback, and signifiers than ELC and Athena. Furthermore many UGA students use outlook or at the least office mail for their UGA email which means that they should be at least somewhat familiar with their app or even have it downloaded already this means there will be a steep learning curve, making the time to learn the system short.
 
 
 **_Properties:_** <br>
