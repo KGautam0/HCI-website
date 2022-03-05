@@ -108,6 +108,9 @@ occurrence.
 **_Criteria to measure success_** <br>
 
 Measuring success or failure of the solution will be quite explanatory since most data is quantitative. We are going to use a 2 step process to understand the success. First, a survey at the beginning, middle, and end of the semester asking students about their overall happiness with the system, if it improved productivity and time management, or if it was unpleasant. Secondly and most importantly, we will ask professors for quantitative data regarding tardiness, absence, and late or missed assignments for past semesters. With this data from both users and professors, we will be able to come to an accurate margin of success/error when contrasted with new post-solution data. Ideally late assignments, missing work, tardiness, and absences should decrease once the system is implemented. 
+
+# Video Link <br>
+https://www.youtube.com/watch?v=uYUm8r5TfqY
  
 
 https://hci-team-minerva.glitch.me/milestone_2/index.html
