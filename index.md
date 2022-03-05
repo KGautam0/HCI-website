@@ -13,6 +13,6 @@
 Milestone Links
 <!--     <a href="url">Milestone 1</a>
     <a href="milestone2.md">Milestone 2</a> -->
-[Milestone 1]()
+[Milestone 1](/milestone1.md)
 
 [Milestone 2](/milestone2.md)
