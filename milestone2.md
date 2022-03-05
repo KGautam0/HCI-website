@@ -5,7 +5,9 @@ This means that all other activities outside of class, like the completion of wo
 
 Thus if students are unable to manage their time efficiently because they do not have a comprehensive schedule/calendar, their grades and mental health could suffer. 
 
-This problem is unique in that it does not deal with one system that is lacking in affordances per se, but rather multiple systems that lack in scope. Each calendar has properties like columns and rows that afford organizing times by date AND hour. However the issue is that these systems exist independently with limited scope and are cumbersome for users to use at the same time. \\
+This problem is unique in that it does not deal with one system that is lacking in affordances per se, but rather multiple systems that lack in scope. Each calendar has properties like columns and rows that afford organizing times by date AND hour. However the issue is that these systems exist independently with limited scope and are cumbersome for users to use at the same time. 
+
+
 		
 **__Seven Stages of Action__**\
 Goal-  See if a club’s meeting times match with your semester calendar/schedule
@@ -15,11 +17,12 @@ Execution:
 - Specify-Check elc’s calendar, outlook’s calendar, your Athena’s class schedule, and your personal calendar if the times the meetings happen overlap with any commitments you have
 - Perform- The student looks at the club calendar and cross checks each meeting’s time with ELC, outlook, Athena class schedule, and personal calendars in order to see any time conflicts. 
 
-
 Evaluation:
 - Perceive- Students would open up each calendar and see if there is overlap with any club meeting and any other time of event on any other calendar.   make a mental note o
 - Interpret-The Student realizes that as far as he knows there is no overlap, but he is aware that what he's done was very time consuming and ineffective as he could have overlooked a conflicting event.
 - Compare- The student understands that he really has no way of guaranteeing the accuracy of his conclusion without spending a significant amount of time and energy double checking. He has to assume that he accomplished his goal and hope he doesn’t have to repeat this lengthy process.\\
 
+
+
 **__Population Focus__**\
-UGA Students \
+UGA Students 
