@@ -1,4 +1,4 @@
-# Milestone 1 
+Milestone 1
 
 Students today have to use two different calendars from different platforms. From Athena students get their weekly class schedule that tells them what times their classes are each day. However for any assignments or deadlines that teachers make, they have to reference the elc calendar which only shows deadlines. This is not very intuitive and may cause a student to forget an assignment’s due date or a class meeting. This is especially true for students returning to face to face class, where students have to actually commute to classrooms which greatly increases time commitments. Ostensibly there is a calendar program on elc, however, that one does not send alerts beyond emails (which must be opted in for) and is separate from the outlook calendar already synced with uga holidays and the athena class schedule. This means that students who have the foreknowledge of these tools must manually check their emails for deadline alerts, their class schedule or elc's calendar, Athena for class times, and outlook calendar for any school holidays or events they've manually added. 
 
