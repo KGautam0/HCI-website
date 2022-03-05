@@ -1,4 +1,4 @@
-**__Problem__**
+**__Problem__**\
 UGA students have to use at least two different calendars to get a general idea of what their daily, weekly, and monthly schedule looks for their academic courses. If they want to see what the deadlines are for different assignments and assessments they have to use elc. If they want to see what times their class meetings are at they have to use Athena’s class schedule. These calendars being separate yet equally important make it difficult for a student to at a glance get a visualization of their academic responsibilities for a week or day. This is something that is even more true with in person learning, as the commute to class makes time management much more important. No longer can you easily attend class while doing something else, now you have to get ready to commute to the classroom and stay there for the duration while away from your usual workspace. 
 
 This means that all other activities outside of class, like the completion of work by certain deadlines, must be done outside of class meetings. This requires students to now exercise diligent time management. While it may seem intuitive that increased time management leads to deadlines being met and thus increased grades, there is extensive research done that supports this trend. Macan et. al. found that not only did students report a higher GPA when they had a higher perceived management of their time, but they also reported higher life satisfaction and lower stress.
@@ -9,7 +9,7 @@ This problem is unique in that it does not deal with one system that is lacking 
 		
 
 
-**__Seven Stages of Action__**
+**__Seven Stages of Action__**\
 Goal-  See if a club’s meeting times match with your semester calendar/schedule
 
 Execution:
@@ -25,5 +25,5 @@ Evaluation:
 
 
 
-**__Population Focus__**
+**__Population Focus__**\
 UGA Students 
