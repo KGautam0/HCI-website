@@ -7,7 +7,7 @@ Thus if students are unable to manage their time efficiently because they do not
 
 This problem is unique in that it does not deal with one system that is lacking in affordances per se, but rather multiple systems that lack in scope. Each calendar has properties like columns and rows that afford organizing times by date AND hour. However the issue is that these systems exist independently with limited scope and are cumbersome for users to use at the same time. 
 
-
+<br>
 		
 **__Seven Stages of Action__**\
 Goal-  See if a club’s meeting times match with your semester calendar/schedule
