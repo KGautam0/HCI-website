@@ -1,4 +1,4 @@
-**__Problem__**\
+**_Problem_**\
 UGA students have to use at least two different calendars to get a general idea of what their daily, weekly, and monthly schedule looks for their academic courses. If they want to see what the deadlines are for different assignments and assessments they have to use elc. If they want to see what times their class meetings are at they have to use Athena’s class schedule. These calendars being separate yet equally important make it difficult for a student to at a glance get a visualization of their academic responsibilities for a week or day. This is something that is even more true with in person learning, as the commute to class makes time management much more important. No longer can you easily attend class while doing something else, now you have to get ready to commute to the classroom and stay there for the duration while away from your usual workspace. 
 
 This means that all other activities outside of class, like the completion of work by certain deadlines, must be done outside of class meetings. This requires students to now exercise diligent time management. While it may seem intuitive that increased time management leads to deadlines being met and thus increased grades, there is extensive research done that supports this trend. Macan et. al. found that not only did students report a higher GPA when they had a higher perceived management of their time, but they also reported higher life satisfaction and lower stress.
@@ -9,7 +9,7 @@ This problem is unique in that it does not deal with one system that is lacking 
 
 <br><br>
 		
-**__Seven Stages of Action__**\
+**_Seven Stages of Action_**\
 Goal-  See if a club’s meeting times match with your semester calendar/schedule
 
 Execution:
@@ -24,27 +24,37 @@ Evaluation:
 
 <br><br>
 
-**__Population Focus__**\
+**_Population Focus_**\
 UGA Students 
 
-**__Related Tasks__**\
+**_Related Tasks_**\
 Students all use ELC, Athena, and Outlook in conjunction with each other to view assignment deadlines, schedules, class location, uniform holidays, and etc. Students have to balance all three on a in order to complete daily tasks
 
-**__User Benefit__**\
+**_User Benefit_**\
 With this solution users will be better able to complete tasks on time or ahead of schedule, remove doubts regarding meeting location/time, and will decrease time spent on looking through the different calendars
 
-**__Describe existing solutions__**\		
-Personal Calendar: An existing solution is that the student can simply create a personal calendar and consolidate all the important deadlines into their own personal platform. 
+**_Describe existing solutions_**\		
+__Personal Calendar:__ An existing solution is that the student can simply create a personal calendar and consolidate all the important deadlines into their own personal platform. 
 
 Examples: Google Calendar, Outlook Calendar, etc. 
 
-_Pros:_\
+_Pros:_
 - For each entry, the user has more control and can add more details that suit them. 
 - For example, if a person would like to add an entry that reminds them that their math homework is due, they could add more details about the class or remove as much detail as they’d like. 
 - Can add more events and create personal entries in addition to the academic information 
 - The user can add reminders and other important dates, such as birthdays, into their personal calendar. The calendar is not limit to exclusively academic deadlines. 
 Overall, the calendar can be more customizable to the user and applicable to more purposes 
 
-_Cons:_\
+_Cons:_
 - There’s a higher chance of a user forgetting to manually input a deadline on the calendar, or even input inaccurate events/deadlines. The responsibilities of inputting the entries and deadlines fall onto the user, therefore it’s extremely easy for the user to not place a deadline and miss it. 
-- According to Hamilton, the author discusses how inefficient multitasking is. Researchers used an MRI scan to see the subject's brains as they completed multiple tasks. The study showed how “even simple tasks can overwhelm the brain when we try to do several at once.” This shows how having to use multiple platforms and calendars can be overwhelming for the user when having to know different details from different calendars. 
+
+__Todoist:__ Another existing solution. The user can input a set of responsibilities and reminders. It gets sorted by the priority and deadline. 
+
+_Pros:_ 
+- It’s easier to see the most upcoming deadline and the priority of it. 
+
+_Cons:_
+- The same issue as the personal calendar as inputting the reminder falls onto the user, and it makes it easier for the user to miss a deadline or assignment if they forget to put it in. 
+
+
+According to Hamilton, the author discusses how inefficient multitasking is. Researchers used an MRI scan to see the subject's brains as they completed multiple tasks. The study showed how “even simple tasks can overwhelm the brain when we try to do several at once.” This shows how having to use multiple platforms and calendars can be overwhelming for the user when having to know different details from different calendars.
