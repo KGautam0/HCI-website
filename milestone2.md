@@ -33,7 +33,7 @@ Students all use ELC, Athena, and Outlook in conjunction with each other to view
 **_User Benefit_**\
 With this solution users will be better able to complete tasks on time or ahead of schedule, remove doubts regarding meeting location/time, and will decrease time spent on looking through the different calendars
 
-**_Describe existing solutions_**\		
+**_Describe existing solutions_**<br>		
 __Personal Calendar:__ An existing solution is that the student can simply create a personal calendar and consolidate all the important deadlines into their own personal platform. 
 
 Examples: Google Calendar, Outlook Calendar, etc. 
