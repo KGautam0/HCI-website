@@ -58,3 +58,45 @@ _Cons:_
 
 
 According to Hamilton, the author discusses how inefficient multitasking is. Researchers used an MRI scan to see the subject's brains as they completed multiple tasks. The study showed how “even simple tasks can overwhelm the brain when we try to do several at once.” This shows how having to use multiple platforms and calendars can be overwhelming for the user when having to know different details from different calendars.
+
+
+https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
+**_Guidelines & Principles_**
+	
+- According to Microsoft’s website, “Microsoft 365 apps are designed with the requirements of EN 301 549, WCAG 2.0 AA and US Section 508 in mind”. By following the Section 508 guideline microsoft outlook is safe and accessible to disabled individuals. 		 
+- The ELC and outlook calendars have exceptional informative feedback. Once the user submits an event or task on the calendar it is instantly updated and easy to view. 
+- Outlook has easy reversal of action abilities. When the user confirms task/event details, they can click the event and easily “delete” it or edit as they wish.
+- The ELC, Athena, and Outlook all have similar properties and Strive for Consistency. They all have consistent colors, layouts, pages, and menus. 
+
+
+**_Proposed Solution_**
+Integrate elc calendar and Athena Calendar with Outlook on UGA email address. This would mean that once a student has registered for classes and the semester has started they would be able to see all events from the Athena schedule and elc calendar on their outlook calendar  respectively. This calendar would sync with ELC and Athena daily at midnight so that any changes in either would be shown in outlook. 
+
+Integrating the two into outlook is ideal as outlook has more features and has a stronger application of good design principles like discoverability, feedback, and signifiers than ELC and Athena. Furthermore many UGA students use outlook or at the least office mail for their UGFA email which means that they should be at least somewhat familiar with their app or even have it downloaded already this means there will be a steep learning curve, making the time to learn the system short.
+
+
+**_Properties:_** 
+Same current look. With a calendar interface, dates, time stamps, clickable events, description, view formats,except integrated between all the platforms, date bar. 
+
+**_Affordances:_**
+- Dates and Time stamp interface affords identifying events by date and time of
+occurrence. 
+
+- Color coded events afford identifying event types at a glance.
+
+- Written description affords remember what each event entails at a basic level.
+
+- View formats afford managing time at differing scales, liek day-by-day, weekly or monthly.
+
+- Date bar affords searching events by date.
+
+
+
+
+**_Criteria to measure success_** 
+
+Measuring success or failure of the solution will be quite explanatory since most data is quantitative. We are going to use a 2 step process to understand the success. First, a survey at the beginning, middle, and end of the semester asking students about their overall happiness with the system, if it improved productivity and time management, or if it was unpleasant. Secondly and most importantly, we will ask professors for quantitative data regarding tardiness, absence, and late or missed assignments for past semesters. With this data from both users and professors, we will be able to come to an accurate margin of success/error when contrasted with new post-solution data. Ideally late assignments, missing work, tardiness, and absences should decrease once the system is implemented. 
+
+https://hci-team-minerva.glitch.me/milestone_2/index.html
+
+https://www.npr.org/templates/story/story.php?storyId=95256794 
