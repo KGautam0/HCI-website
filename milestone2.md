@@ -26,7 +26,7 @@ Evaluation:
 
 <br><br>
 
-## 2. 
+## 2. <br>
 **_Population Focus_**\
 UGA Students 
 
@@ -38,8 +38,8 @@ With this solution users will be better able to complete tasks on time or ahead 
 
 
 
-B: 
-1. 
+# B:<br>
+## 1. <br>
 **_Describe existing solutions_**<br>		
 __Personal Calendar:__ <br>
 An existing solution is that the student can simply create a personal calendar and consolidate all the important deadlines into their own personal platform. 
@@ -70,7 +70,7 @@ According to Hamilton, the author discusses how inefficient multitasking is. Res
 
 
 https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
-## 2. 
+## 2. <br>
 **_Guidelines & Principles_** <br>
 	
 - According to Microsoft’s website, “Microsoft 365 apps are designed with the requirements of EN 301 549, WCAG 2.0 AA and US Section 508 in mind”. By following the Section 508 guideline microsoft outlook is safe and accessible to disabled individuals. 		 
@@ -79,8 +79,8 @@ https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3a
 - The ELC, Athena, and Outlook all have similar properties and Strive for Consistency. They all have consistent colors, layouts, pages, and menus. 
 
 
-# C. 
-## 1. 
+# C. <br>
+## 1. <br>
 **_Proposed Solution_** <br>
 Integrate elc calendar and Athena Calendar with Outlook on UGA email address. This would mean that once a student has registered for classes and the semester has started they would be able to see all events from the Athena schedule and elc calendar on their outlook calendar  respectively. This calendar would sync with ELC and Athena daily at midnight so that any changes in either would be shown in outlook. 
 
@@ -103,7 +103,7 @@ occurrence.
 - Date bar affords searching events by date.
 
 
-## 2. 
+## 2. <br>
 **_Criteria to measure success_** <br>
 
 Measuring success or failure of the solution will be quite explanatory since most data is quantitative. We are going to use a 2 step process to understand the success. First, a survey at the beginning, middle, and end of the semester asking students about their overall happiness with the system, if it improved productivity and time management, or if it was unpleasant. Secondly and most importantly, we will ask professors for quantitative data regarding tardiness, absence, and late or missed assignments for past semesters. With this data from both users and professors, we will be able to come to an accurate margin of success/error when contrasted with new post-solution data. Ideally late assignments, missing work, tardiness, and absences should decrease once the system is implemented. 
