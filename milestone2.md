@@ -9,7 +9,7 @@ Thus if students are unable to manage their time efficiently because they do not
 
 This problem is unique in that it does not deal with one system that is lacking in affordances per se, but rather multiple systems that lack in scope. Each calendar has properties like columns and rows that afford organizing times by date AND hour. However the issue is that these systems exist independently with limited scope and are cumbersome for users to use at the same time. 
 
-<br><br>
+
 		
 **_Seven Stages of Action_**\
 Goal-  See if a club’s meeting times match with your semester calendar/schedule
@@ -24,7 +24,7 @@ Evaluation:
 - Interpret-The Student realizes that as far as he knows there is no overlap, but he is aware that what he's done was very time consuming and ineffective as he could have overlooked a conflicting event.
 - Compare- The student understands that he really has no way of guaranteeing the accuracy of his conclusion without spending a significant amount of time and energy double checking. He has to assume that he accomplished his goal and hope he doesn’t have to repeat this lengthy process.
 
-<br><br>
+<br>
 
 ## 2. <br>
 **_Population Focus_**\
@@ -36,7 +36,7 @@ Students all use ELC, Athena, and Outlook in conjunction with each other to view
 **_User Benefit_**\
 With this solution users will be better able to complete tasks on time or ahead of schedule, remove doubts regarding meeting location/time, and will decrease time spent on looking through the different calendars
 
-
+<br><br>
 
 # B:<br>
 ## 1. <br>
@@ -78,7 +78,7 @@ https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3a
 - Outlook has easy reversal of action abilities. When the user confirms task/event details, they can click the event and easily “delete” it or edit as they wish.
 - The ELC, Athena, and Outlook all have similar properties and Strive for Consistency. They all have consistent colors, layouts, pages, and menus. 
 
-
+<br><br>
 # C. <br>
 ## 1. <br>
 **_Proposed Solution_** <br>
