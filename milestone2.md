@@ -71,7 +71,6 @@ _Cons:_
 According to Hamilton, the author discusses how inefficient multitasking is. Researchers used an MRI scan to see the subject's brains as they completed multiple tasks. The study showed how “even simple tasks can overwhelm the brain when we try to do several at once.” This shows how having to use multiple platforms and calendars can be overwhelming for the user when having to know different details from different calendars.
 
 
-https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
 ## 2. <br>
 **_Guidelines & Principles_** <br>
 	
@@ -109,7 +108,8 @@ occurrence.
 **_Criteria to measure success_** <br>
 
 Measuring success or failure of the solution will be quite explanatory since most data is quantitative. We are going to use a 2 step process to understand the success. First, a survey at the beginning, middle, and end of the semester asking students about their overall happiness with the system, if it improved productivity and time management, or if it was unpleasant. Secondly and most importantly, we will ask professors for quantitative data regarding tardiness, absence, and late or missed assignments for past semesters. With this data from both users and professors, we will be able to come to an accurate margin of success/error when contrasted with new post-solution data. Ideally late assignments, missing work, tardiness, and absences should decrease once the system is implemented. 
+ 
 
 https://hci-team-minerva.glitch.me/milestone_2/index.html
-
 https://www.npr.org/templates/story/story.php?storyId=95256794 
+https://www.microsoft.com/en-us/accessibility/microsoft-365?activetab=pivot_1%3aprimaryr2
