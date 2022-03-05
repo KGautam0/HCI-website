@@ -26,3 +26,25 @@ Evaluation:
 
 **__Population Focus__**\
 UGA Students 
+
+**__Related Tasks__**\
+Students all use ELC, Athena, and Outlook in conjunction with each other to view assignment deadlines, schedules, class location, uniform holidays, and etc. Students have to balance all three on a in order to complete daily tasks
+
+**__User Benefit__**\
+With this solution users will be better able to complete tasks on time or ahead of schedule, remove doubts regarding meeting location/time, and will decrease time spent on looking through the different calendars
+
+**__Describe existing solutions__**\		
+Personal Calendar: An existing solution is that the student can simply create a personal calendar and consolidate all the important deadlines into their own personal platform. 
+
+Examples: Google Calendar, Outlook Calendar, etc. 
+
+_Pros:_\
+- For each entry, the user has more control and can add more details that suit them. 
+- For example, if a person would like to add an entry that reminds them that their math homework is due, they could add more details about the class or remove as much detail as they’d like. 
+- Can add more events and create personal entries in addition to the academic information 
+- The user can add reminders and other important dates, such as birthdays, into their personal calendar. The calendar is not limit to exclusively academic deadlines. 
+Overall, the calendar can be more customizable to the user and applicable to more purposes 
+
+_Cons:_\
+- There’s a higher chance of a user forgetting to manually input a deadline on the calendar, or even input inaccurate events/deadlines. The responsibilities of inputting the entries and deadlines fall onto the user, therefore it’s extremely easy for the user to not place a deadline and miss it. 
+- According to Hamilton, the author discusses how inefficient multitasking is. Researchers used an MRI scan to see the subject's brains as they completed multiple tasks. The study showed how “even simple tasks can overwhelm the brain when we try to do several at once.” This shows how having to use multiple platforms and calendars can be overwhelming for the user when having to know different details from different calendars. 
